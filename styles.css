@@ -1,0 +1,59 @@
+body { 
+  background-color: blanchedalmond;
+  font-family: 'Times New Roman', Georgia, Times, sans-serif;
+}
+  
+img {
+  width: 500px;
+  height: auto;
+}
+
+.recipelinks {
+  background-color: white;
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+}
+
+.icon {
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+.intro p{
+  text-align: left;
+  margin-left: 30%;
+  margin-right: 30%;    
+}
+
+.intro{
+  text-align: center;
+}
+
+h1, h2, h3 {
+  background-color: white;
+  margin-right: 30%;
+  margin-left: 30%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  color: rgb(47, 43, 71);
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h4 {
+  text-align: center;
+}
+
+li{
+  text-align: left;
+  margin-left: 30%;
+  margin-right: 30%;
+}
